@@ -1,7 +1,7 @@
 [project]
 name = "simple-pipeline"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple data cleaning pipeline"
 readme = "README.md"
 authors = [
     { name = "Anthony Ndegwa", email = "ndegwaanthony300@gmail.com" }

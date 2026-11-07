@@ -13,4 +13,6 @@ WORKDIR /simple_pipeline
 COPY . .
 
 # run the script
-CMD ["python", "main.py"] # ENTRYPOINT ["python", "main.py"]
+CMD ["python", "main.py"] 
+
+# ENTRYPOINT ["python", "main.py"]
