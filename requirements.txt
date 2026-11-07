@@ -1,0 +1,144 @@
+# Core Data Processing
+numpy==1.26.4
+pandas
+scipy==1.13.1
+
+# Machine Learning
+scikit-learn
+# xgboost
+# lightgbm
+# catboost
+imbalanced-learn
+
+# Deep Learning
+# tensorflow
+# torch
+# torchvision
+# torchaudio
+
+# Statistics
+statsmodels
+
+# Visualization
+matplotlib
+plotly==4.14.3
+bokeh
+altair
+ipympl
+
+# Jupyter
+jupyter
+notebook
+jupyterlab
+ipywidgets
+
+# Model Explainability
+shap
+lime
+
+# Hyperparameter Optimization
+optuna
+hyperopt
+
+# Feature Engineering
+feature-engine
+category-encoders
+
+# Data Validation
+pandera
+great-expectations
+
+# Model Persistence
+joblib
+cloudpickle
+
+# Progress Bars
+# tqdm
+
+# Configuration
+python-dotenv
+pyyaml
+
+# Database
+sqlalchemy
+psycopg2-binary
+pymysql
+pymongo
+
+# API Development
+fastapi
+uvicorn
+flask
+
+# Dashboard
+streamlit
+dash
+gradio
+
+# Web Scraping
+beautifulsoup4
+requests
+selenium
+lxml
+
+# Image Processing
+# opencv-python
+# pillow
+# scikit-image
+
+# # NLP
+# nltk
+# spacy
+# transformers
+# sentence-transformers
+# gensim
+# textblob
+
+# # Time Series
+# prophet
+# sktime
+# pmdarima
+
+# # Experiment Tracking
+# mlflow
+# wandb
+
+# # Model Serving
+# onnx
+# onnxruntime
+
+# # Distributed Computing
+# dask
+# ray
+
+# # Utilities
+# rich
+# click
+
+# # Testing
+# pytest
+# pytest-cov
+
+# # Code Quality
+# black
+# isort
+# flake8
+# mypy
+
+# # Documentation
+# mkdocs
+# mkdocs-material
+
+# Excel Support
+openpyxl
+xlsxwriter
+
+# File Formats
+# pyarrow
+# fastparquet
+# h5py
+
+# Cloud Storage
+# boto3
+# google-cloud-storage
+# azure-storage-blob
