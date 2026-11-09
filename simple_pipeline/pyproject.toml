@@ -19,3 +19,8 @@ simple-pipeline = "simple_pipeline:main"
 [build-system]
 requires = ["uv_build>=0.13.7,<0.14.0"]
 build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pgcli>=4.7.1",
+]
