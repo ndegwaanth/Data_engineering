@@ -8,6 +8,10 @@ authors = [
 ]
 requires-python = ">=3.12.2"
 dependencies = [
+    "click>=8.5.1",
+    "pandas>=3.1.1",
+    "psycopg2-binary>=2.9.13",
+    "sqlalchemy>=2.1.8",
     "tqdm>=4.70.1",
 ]
 
